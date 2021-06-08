@@ -11,10 +11,13 @@ encrypted password will generate
 
 
 
+
 login(should be same as sign up password else give error) 
 
-
 ![response (6)](https://user-images.githubusercontent.com/81323019/121247008-5f69a580-c8bf-11eb-8c10-b9a7d7c78bf1.jpeg)
+
+
+
 
 GUI will look like this to add password click add or to generate password click generate
 
@@ -22,10 +25,10 @@ GUI will look like this to add password click add or to generate password click 
 
 ![response (1)](https://user-images.githubusercontent.com/81323019/121247390-d3a44900-c8bf-11eb-80d7-94e3888944d3.jpeg)
 
-need to be carefull while entering website username length else get warning or error
 
-![response (7)](https://user-images.githubusercontent.com/81323019/121247508-f6cef880-c8bf-11eb-8c20-815910a27dc3.jpeg)
-![response (9)](https://user-images.githubusercontent.com/81323019/121247509-f6cef880-c8bf-11eb-947c-327001208530.jpeg)
+
+
+need to be carefull while entering website username length else get warning or error
 
 following warnings/error:
 
@@ -33,6 +36,11 @@ following warnings/error:
 2. length should be integer
 3. website and username field should not be null
 4. website and username already exist
+
+![response (7)](https://user-images.githubusercontent.com/81323019/121247508-f6cef880-c8bf-11eb-8c20-815910a27dc3.jpeg)
+![response (9)](https://user-images.githubusercontent.com/81323019/121247509-f6cef880-c8bf-11eb-947c-327001208530.jpeg)
+
+
 
 while deleting field will get confirmation popup
 
